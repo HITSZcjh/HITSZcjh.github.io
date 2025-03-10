@@ -35,6 +35,24 @@ Projects
 
 ### Apple Vision Pro Teleoperation  
 <video width="720" height="405" controls>
+  <source src="https://hitszcjh.github.io/files/FPGA.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Apple Vision Pro Teleoperation  
+<video width="720" height="405" controls>
+  <source src="https://hitszcjh.github.io/files/motor.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Apple Vision Pro Teleoperation  
+<video width="720" height="405" controls>
   <source src="https://hitszcjh.github.io/files/smart_car.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+### Apple Vision Pro Teleoperation  
+<video width="720" height="405" controls>
+  <source src="https://hitszcjh.github.io/files/traj.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
