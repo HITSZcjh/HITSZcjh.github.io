@@ -26,8 +26,7 @@ Projects
 
 ### Apple Vision Pro Teleoperation
 
-[点击观看视频](https://www.bilibili.com/video/BV1bm94YPE5x)
-
+<iframe width="354px" height="225px" src="https://www.bilibili.com/video/BV1bm94YPE5x" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe>
 
 
 ...（省略描述）
