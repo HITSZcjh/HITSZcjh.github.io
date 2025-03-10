@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "你好！"
+title                    : "陈杰浩"
 title_separator          : "-"
 name                     : &name "陈杰浩"
 description              : &description "哈尔滨工业大学（深圳）硕士在读"
