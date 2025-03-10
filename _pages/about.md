@@ -1,30 +1,36 @@
 ---
 permalink: /
-title: "About me"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello, I am currently living in Shenzhen, Guangdong, and pursuing my Master’s degree in Control Science and Engineering at Harbin Institute of Technology, Shenzhen (HITSZ). I also obtained my Bachelor’s degree from HITSZ. At present, I am a member of the [RLG-lab](https://www.rlg-hitsz.net), where we focus on research and projects related to the application of reinforcement learning in robotics. 
+现于哈尔滨工业大学（深圳）控制科学与工程专业攻读硕士学位（师从李衍杰教授），本科以优异学业表现（前3%）保送本校继续深造。作为[RLG实验室](https://www.rlg-hitsz.net) 的一员，专注于深度强化学习算法在智能机器人领域中的应用研究，主导基于强化学习的无人机容错控制算法研究，相关算法已于实物平台进行验证和测试并正在发表论文。
 
-For a full CV, download the [pdf](https://hitszcjh.github.io/files/cv.pdf). Last updated on 2025.03.10.
+[点击下载完整PDF版简历](https://hitszcjh.github.io/files/cv.pdf)。
 
-Education
+教育背景
 ======
-- **Master of Engineering**, Control Science and Engineering  
-  *Harbin Institute of Technology, Shenzhen*  
-  *[RLG-lab](https://www.rlg-hitsz.net), Sep. 2024 – Present*
+- **工学硕士**，控制科学与工程  
+  *哈尔滨工业大学（深圳）*  
+  *[RLG实验室](https://www.rlg-hitsz.net)，2024年9月 – 至今*
 
-- **Bachelor of Engineering**, Automation  
-  *Harbin Institute of Technology, Shenzhen*  
-  *Sep. 2020 – Jun. 2024*
+- **工学学士**，自动化  
+  *哈尔滨工业大学（深圳）*  
+  *2020年9月 – 2024年6月*
 
-Projects
+项目经历
 ======
 
-### Apple Vision Pro Teleoperation  
+### 基于强化学习的无人机被动容错控制算法研究 | 负责人   2024.01 - 2025.01
+
+项目内容：基于**强化学习**方法实现四旋翼在任意单个旋翼失效任意程度下仍能保持有效的位置控制.
+- 提出**Selector-Controller**策略网络架构, 能够结合现有被动和主动容错控制方法的优点, 同时通过**强化学习**, **行为克隆**和结合故障信息的**监督学习**方法共同训练策略网络, 进一步提升策略网络的性能.
+- 搭建仿真环境: 对无人机旋翼故障进行建模, 采用RK45方法实现前向积分, 同时利用OpenMP和Pybind实现并行化以及封装为Python接口.
+- 训练控制策略: 搭建PPO训练框架, 设计策略观测值和奖励函数, 设计训练场景等.
+- 实物实验: 搭建无人机平台, 辨识无人机动力学参数, **Sim2Real迁移**, **策略网络部署 (PX4)** 等.
 <iframe 
   src="https://player.bilibili.com/player.html?bvid=BV1bm94YPE5x" 
   width="720" 

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jiehao Chen (陈杰浩)"
+title                    : "你好！"
 title_separator          : "-"
-name                     : &name "Jiehao Chen"
-description              : &description "A master's student at Harbin Institute of Technology Shenzhen"
+name                     : &name "陈杰浩"
+description              : &description "哈尔滨工业大学（深圳）硕士在读"
 url                      : https://hitszcjh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HITSZcjh.github.io"
@@ -23,11 +23,11 @@ repository               : "HITSZcjh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jiehao Chen (陈杰浩)"
+  name             : "陈杰浩"
   pronouns         : # example: "she/her"  
-  bio              : "A master's student at Harbin Institute of Technology Shenzhen"
-  location         : "China"
-  employer         : "Harbin Institute of Technology Shenzhen"
+  bio              : "研究强化学习算法在机器人领域的应用"
+  location         : "广东，深圳"
+  employer         : "哈尔滨工业大学（深圳）"
   uri              : # URL
   email            : "1743574540@qq.com" 
 
