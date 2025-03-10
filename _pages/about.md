@@ -24,13 +24,12 @@ Education
 Projects
 ======
 
-### Apple Vision Pro Teleoperation
+### Apple Vision Pro Teleoperation  
 
-<iframe width="354px" height="225px" src="https://www.bilibili.com/video/BV1bm94YPE5x" scrolling="no" border="0" frameborder="0" framespacing="0"> </iframe>
-
-
-...（省略描述）
-
-### VR Immersive Visualization
-![VR Visualization](your-image-link-2.png)  
-For complex and dangerous post-disaster scenarios...（省略描述）
+<iframe 
+  src="https://player.bilibili.com/player.html?bvid=BV1bm94YPE5x" 
+  width="560" 
+  height="315" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
