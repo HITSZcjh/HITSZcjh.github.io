@@ -56,7 +56,7 @@ redirect_from:
 - 在实物无人机中，采用 PX4 框架实现对八字和圆形轨迹的跟踪。
 
 <video width="720" height="405" controls>
-  <source src="https://hitszcjh.github.io/files/traj.mp4" type="video/mp4">
+  <source src="https://hitszcjh.github.io/files/traj_x264.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -70,7 +70,7 @@ redirect_from:
 项目内容：基于车辆前后左右方向的四个鱼眼摄像头实现**鸟瞰图拼接**，主要方法包括: 去畸变、定位与投影、图形拼接、亮度平衡和多线程加速.  
 **成果：星闪杯高校应用挑战赛总决赛 (全国第二名)**  
 <video width="720" height="405" controls>
-  <source src="https://hitszcjh.github.io/files/sparklink.mp4" type="video/mp4">
+  <source src="https://hitszcjh.github.io/files/sparklink_x264.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -83,7 +83,7 @@ redirect_from:
 
 **成果：软件著作权一项**  
 <video width="720" height="405" controls>
-  <source src="https://hitszcjh.github.io/files/motor.mp4" type="video/mp4">
+  <source src="https://hitszcjh.github.io/files/motor_x264.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -96,7 +96,7 @@ redirect_from:
 
 **成果：第十六届全国大学生智能汽车竞赛 (全国一等奖)**  
 <video width="720" height="405" controls>
-  <source src="https://hitszcjh.github.io/files/smart_car.mp4" type="video/mp4">
+  <source src="https://hitszcjh.github.io/files/smart_car_x264.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
@@ -105,6 +105,6 @@ redirect_from:
 负责人 ｜ 2022.09 – 2022.11  
 项目内容：使用FPGA纯硬件语言实现手写数字识别，结合FPGA并行构架特点对网络模型进行加速，设计**多级流水线**，在资源受限的FPGA平台上实现500Hz的处理频率。  
 <video width="720" height="405" controls>
-  <source src="https://hitszcjh.github.io/files/FPGA.mp4" type="video/mp4">
+  <source src="https://hitszcjh.github.io/files/FPGA_x264.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
