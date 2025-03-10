@@ -25,8 +25,11 @@ Projects
 ======
 
 ### Apple Vision Pro Teleoperation
-![Apple Vision Pro](https://hitszcjh.github.io/files/test.jpg)  
-We implemented the demo of [TeleVison](https://github.com/TeleVison).  
+
+[点击观看视频](https://www.bilibili.com/video/BV1bm94YPE5x)
+
+
+
 ...（省略描述）
 
 ### VR Immersive Visualization
