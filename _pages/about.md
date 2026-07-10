@@ -123,6 +123,14 @@ redirect_from:
 
 **项目成果**：**RoboMaster** 高校人工智能挑战赛（**全国一等奖**）。
 
+<iframe
+  src="https://player.bilibili.com/player.html?bvid=BV1rtNn6GEmQ"
+  width="720"
+  height="405"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ### 基于鱼眼相机的全景环视拼接
 *核心成员 ｜ 2023.11 – 2024.01*
 
